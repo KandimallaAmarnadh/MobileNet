@@ -4,7 +4,7 @@
 
 ## 0. Kaggle API Setup
 * Open [Kaggle](https://www.kaggle.com/)
-* SignIn or SignUp
+* Signin or SignUp
 * Click on Profile on top-right corner
 * Go to Settings
 * Move to API Section and Click Create New Token
@@ -28,8 +28,8 @@ python3 --version
 ```
 a
 ## 2. Clone the GitHub Repository
-* `git clone https://github.com/InkolluvenkatBhargav/CNN.git`
-* `cd CNN.git`
+* `git clone https://github.com/KandimallaAmarnadh/MobileNet.git`
+* `cd MobileNet.git`
 * Download Dataset from [Here](https://www.kaggle.com/datasets/pritpal2873/multiple-skin-disease-detection-and-classification/data)
 
 ## 3. Create a Virtual Environment
@@ -44,7 +44,7 @@ a
 ## 5. Install Dependencies from requirements.txt
 * In terminal `pip install -r requirements.txt`
 
-## 6. Run CNN Model
+## 6. Run the Model
 * Select Kernel with venv
 * Run `model.ipynb` cell by cell
 * After successful execution you should see a file named
